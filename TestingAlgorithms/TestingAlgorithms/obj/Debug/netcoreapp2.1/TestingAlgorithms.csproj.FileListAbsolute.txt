@@ -1,0 +1,10 @@
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\bin\Debug\netcoreapp2.1\TestingAlgorithms.deps.json
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\bin\Debug\netcoreapp2.1\TestingAlgorithms.runtimeconfig.json
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\bin\Debug\netcoreapp2.1\TestingAlgorithms.runtimeconfig.dev.json
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\bin\Debug\netcoreapp2.1\TestingAlgorithms.dll
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\bin\Debug\netcoreapp2.1\TestingAlgorithms.pdb
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\obj\Debug\netcoreapp2.1\TestingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\obj\Debug\netcoreapp2.1\TestingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\obj\Debug\netcoreapp2.1\TestingAlgorithms.AssemblyInfo.cs
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\obj\Debug\netcoreapp2.1\TestingAlgorithms.dll
+C:\Users\Sneh Mehta\source\repos\TestingAlgorithms\TestingAlgorithms\obj\Debug\netcoreapp2.1\TestingAlgorithms.pdb
