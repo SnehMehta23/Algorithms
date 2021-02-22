@@ -688,23 +688,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sneh Mehta\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\snehm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sneh Mehta\\source\\repos\\TestingAlgorithms\\TestingAlgorithms\\TestingAlgorithms.csproj",
+      "projectUniqueName": "C:\\Users\\snehm\\Documents\\GitHub\\Algorithms\\TestingAlgorithms\\TestingAlgorithms\\TestingAlgorithms.csproj",
       "projectName": "TestingAlgorithms",
-      "projectPath": "C:\\Users\\Sneh Mehta\\source\\repos\\TestingAlgorithms\\TestingAlgorithms\\TestingAlgorithms.csproj",
-      "packagesPath": "C:\\Users\\Sneh Mehta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sneh Mehta\\source\\repos\\TestingAlgorithms\\TestingAlgorithms\\obj\\",
+      "projectPath": "C:\\Users\\snehm\\Documents\\GitHub\\Algorithms\\TestingAlgorithms\\TestingAlgorithms\\TestingAlgorithms.csproj",
+      "packagesPath": "C:\\Users\\snehm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\snehm\\Documents\\GitHub\\Algorithms\\TestingAlgorithms\\TestingAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sneh Mehta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\snehm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -716,6 +712,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -727,18 +724,26 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
